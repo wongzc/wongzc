@@ -1,6 +1,6 @@
 ### Hi there :v:
 
-- 🌱 I’m currently learning django, react.js
+- 📚 I’m currently learning django, react.js
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: wzclalala@gmail.com
 

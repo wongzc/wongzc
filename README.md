@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there :v:
 
 - 🌱 I’m currently learning django, react.js
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: wzclalala@gmail.com
 
-- <img src="{BadgeURLHere}" />
+
 <!--
 **wongzc/wongzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

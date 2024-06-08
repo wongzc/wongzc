@@ -12,7 +12,11 @@
 - 📫 How to reach me: <br> [![Gmail Badge](https://img.shields.io/badge/-wzclalala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wzclalala@gmail.com)](wzclalala@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ZhaoCai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhao-cai-wong/)](https://www.linkedin.com/in/zhao-cai-wong/)
 - 💻 Language: <br> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
                     /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-                       /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+                       /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+                           /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" 
+                               /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+                                   />
+                   
 - 🚀 Technology: <br><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" 
                      /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" 
                          /> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" 
@@ -20,5 +24,6 @@
                                  /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"
                                      /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
                                          /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" 
-                                             />
+                                             /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
+                                                /> 
 

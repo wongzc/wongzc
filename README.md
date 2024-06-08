@@ -7,7 +7,7 @@
 </h1>
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 📚 I’m currently learning django, react.js
+- 📚 Learning c++. Leetcode for Fun =P
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <br> [![Gmail Badge](https://img.shields.io/badge/-wzclalala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wzclalala@gmail.com)](wzclalala@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ZhaoCai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhao-cai-wong/)](https://www.linkedin.com/in/zhao-cai-wong/)
 - 💻 Language: <br> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"

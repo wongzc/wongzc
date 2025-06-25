@@ -8,8 +8,11 @@
 
 <p align="center">
   <a href="https://chatbot.wongzhaocai.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Try%20My%20Chatbot-Online-brightgreen?style=for-the-badge&logo=googlechat&logoColor=white" alt="Chatbot Badge"/>
+    <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Talk%20to%20My%20Chatbot-1DF7A5?style=for-the-badge&logo=googlechat&logoColor=white" alt="Chatbot Badge"/>
   </a>
+</p>
+<p align="center">
+  <b>💬 Have a question? My chatbot is ready to chat with you!</b>
 </p>
 
 ---

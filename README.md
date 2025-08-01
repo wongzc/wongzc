@@ -47,3 +47,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongzc&show_icons=true&locale=en&layout=compact" alt="wongzc" />
+</p>
